@@ -1,4 +1,4 @@
-![Intro gif](https://github.com/DevScript/Resume.DB/assets/Resume_DB.gif)
+![Introgif](https://github.com/DevScript/Resume.DB/blob/main/assets/Resume_DB.gif)
 
 ---
 
